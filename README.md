@@ -3,4 +3,4 @@ This is a work in progress game made mainly to show off Unity's free assets and 
 
 ![Demo 1](AssetVania1.gif)
 
-[Download](https://github.com/abobco/AssetVania/releases)
+Go to [Releases](https://github.com/abobco/AssetVania/releases) to download the game!
